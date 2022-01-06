@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Tubaron.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PYTHON, REACTJS.
-- 🤔 I’m looking for help with JAVASCRIPT, PYTHON, REACTJS
+- 🌱 I have experience in HTML, JAVASCRIPT, CSS;
+- 🤔 i´m currently focused to develop front-end apps using HTML, CSS, JAVASCRIPT and actualy learning ReactJs.  
