@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Victor Duarte da Costa, Moana´s father and technology lover, ready to learn from everyone and help everyone i can; 
+### Hi there 👋 My name is Victor Duarte da Costa, Moana´s father and technology lover, ready to code some projects and help everyone i can; 
 
 - 🔭 I’m currently working on Tubaron.
 - 🌱 I have experience in HTML, JAVASCRIPT, CSS;
