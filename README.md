@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **victordc133@gmail.com**
 
-- 📄 Know about my experiences [i have experience as technical support and also with web full-stack development and mobile development.](i have experience as technical support and also with web full-stack development and mobile development.)
+- 📄 Know about my experiences i have experience as technical support and also with web full-stack development and mobile development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
