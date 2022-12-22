@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tubaron Tecnologias 🦈**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NestJS**
 
 - 👯 I’m looking to collaborate on **web and mobile aplications**
 
