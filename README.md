@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently Working in Projects with **NestJS, ReactJs, Prisma, TypeScript, React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dvictordev](https://github.com/dvictordev)
+- 👨‍💻 All of my public projects are available at [https://github.com/dvictordev](https://github.com/dvictordev)
 
 - 💬 Ask me about **ReactJs, NodeJs**
 
 - 📫 How to reach me **victordc133@gmail.com**
 
-- 📄 Know about my experiences: i have experience as technical support and also with web full-stack development and mobile development
+- 📄 Know about my experiences: i have experience as technical support and also with web full-stack development and mobile development using ReactJs, NodeJs, NestJs, Prisma, MongoDB, MySQL and React Native.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
