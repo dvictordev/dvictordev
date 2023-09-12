@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Victor Duarte da Costa</h1>
-<h3 align="center">A dedicated web and mobile developer</h3>
+<h1 align="center">Hi 👋, I'm Victor Duarte </h1>
+<h3 align="center">A dedicated Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Tubaron Tecnologias 🦈**
+- 🔭 I’m currently working on **Tubaron Tecnologias 🦈 as Web Full-Stack Developer**
 
-- 🌱 I’m currently learning **NestJS**
-
-- 👯 I’m looking to collaborate on **web and mobile aplications**
+- 🌱 I’m currently Working in Projects with **NestJS, ReactJs, Prisma, TypeScript, React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dvictordev](https://github.com/dvictordev)
 
