@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Duarte </h1>
 <h3 align="center">A dedicated Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Tubaron Tecnologias 🦈 as Web Full-Stack Developer**
+- 🔭 I’m currently working on **Tubaron Tecnologias 🦈 as Full-Stack Developer**
 
 - 🌱 I’m currently Working in Projects with **NestJS, ReactJs, Prisma, TypeScript, React Native**
 
