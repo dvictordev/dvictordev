@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Victor Duarte </h1>
 <h3 align="center">A dedicated Full-Stack Developer</h3>
 
-- 🔭 I’m currently working on **Tubaron Tecnologias 🦈 as Full-Stack Developer**
+- 🔭 I’m a Full-Stack Developer**
 
-- 🌱 I’m currently Working in Projects with **NestJS, ReactJs, Prisma, TypeScript, React Native**
+- 🌱 I’m currently Working in Projects with **NestJS, ReactJs, Prisma, TypeScript and Java**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/dvictordev](https://github.com/dvictordev)
 
-- 💬 Ask me about **ReactJs, NodeJs**
-
 - 📫 How to reach me **victordc133@gmail.com**
 
-- 📄 Know about my experiences: i have experience as technical support and also with web full-stack development and mobile development using ReactJs, NodeJs, NestJs, Prisma, MongoDB, MySQL and React Native.
+- 📄 Know about my experiences: i have experience as a Full-Stack developer, using technologies like, ReactJs, NodeJs, NestJS, Prisma, Typescript, Jest and JAVA.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
